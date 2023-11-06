@@ -1,6 +1,6 @@
 # Chara Dust（剧情）
 
-本文章介绍的是一名原创剧情角色。关于其他同名条目，请参考[消歧义页面](DisABG_Chara_Dust.md)  
+本文章介绍的是一名原创剧情角色。关于其他同名条目，请参考[消歧义页面](../Disambiguation/Chara_Dust.md)  
 
 > Ja, para ser honesto he pasado por decenas de miles de muertes y soy un merecido experto en esta área. Así que por favor contéstame, ¿crees que mi nuevo cuerpo será la solución óptima para ti esta vez?  
 > 哈，说实话我已经经历过数以万计的死亡，在这方面我可是当之无愧的专家。所以请你回答我，你认为我这次的新身体会是你的最优解么？  
@@ -10,7 +10,7 @@ Chara Dust 是一名来自[世界管理组织](test.md)的新晋执政者，被�
 
 ## 基本信息
 - 本地化名：查拉 · 德  
-- [生物种族](ConC_Bioethnic.md)：异象（人类）  
+- [生物种族](../Concept/Bioethnic.md)：异象（人类）  
   - 灵魂特质：仇恨（黑色）  
   - 生理年龄：22（被暂停）  
 - 称谓代词：He（他）
